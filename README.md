@@ -1,6 +1,24 @@
 *Teamwork and Conflict in a Data Driven Work Culture*
 
-Scenario: A workplace conflict was given regarding conflict between business co-workers, and the following questions were posed, along with my responses:
+Scenario: Brach Candies Inc. is a well-established candy manufacturing company known for its wide range of sweet treats. Over the years, the company has faced challenges in accurately predicting future sales, which are crucial for managing production and inventory efficiently. Within Brach Candies Inc., there is a long-standing rivalry between the Sales Department and the Production Department. Each department is responsible for specific aspects of the business:
+
+Sales Department: This department is focused on achieving high sales figures and often sets ambitious sales targets to secure bonuses and recognition. Sales managers have a strong influence over forecasting.
+
+
+Production Department: The Production Department is responsible for manufacturing candy products. They are under pressure to meet the sales targets set by the Sales Department. However, they believe that these targets are often unrealistically high.
+
+
+How Organizational Politics Hindered Sales Prediction:
+
+Inflated Sales Projections: Sales managers in the Sales Department frequently provided overly optimistic sales projections to impress upper management and secure bonuses. These projections were based on historical data but often lacked a realistic assessment of market conditions.
+
+Silos and Lack of Collaboration: Due to the rivalry and lack of collaboration between the Sales and Production Departments, there was minimal communication about actual sales trends and customer feedback. Each department operated in isolation.
+
+Fear of Confrontation: Sales managers hesitated to communicate lower-than-expected sales to upper management due to the fear of negative repercussions. This led to a lack of transparency in reporting actual sales data.
+
+
+
+The following questions were posed, along with my responses:
 
 1. How did Damon's insistence on the importance of the sales department contribute to the conflict within the team, and what were the implications for the company's overall performance?
 
