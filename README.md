@@ -1,4 +1,4 @@
-*Teamwork and Conflict in a Data Driven Work Culture*
+# Teamwork and Conflict in a Data Driven Work Culture
 
 Scenario: Brach Candies Inc. is a well-established candy manufacturing company known for its wide range of sweet treats. Over the years, the company has faced challenges in accurately predicting future sales, which are crucial for managing production and inventory efficiently. Within Brach Candies Inc., there is a long-standing rivalry between the Sales Department and the Production Department. Each department is responsible for specific aspects of the business:
 
